@@ -4,9 +4,9 @@ Olá! Me chamo Thaynara Soares e sou apaixonada por tecnologia, segurança da in
 
 🔐 Áreas de interesse:
 
-Cybersecurity & SIEM (Wazuh, Zabbix)
+Cybersecurity & SIEM (Wazuh)
 
-Monitoramento e observabilidade (Grafana)
+Monitoramento e observabilidade (Zabbix, Grafana)
 
 Análise de logs e incidentes
 
