@@ -1,4 +1,5 @@
 👩‍💻 Sobre mim
+
 Olá! Me chamo Thaynara Soares e sou apaixonada por tecnologia, segurança da informação e automação de processos. Sempre em busca de novos desafios, atuo com foco em soluções eficientes, monitoramento inteligente e integração de sistemas.
 
 🔐 Áreas de interesse:
