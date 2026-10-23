@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thaynarasoares&color=00A878&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="Visualizações do perfil" />
-</p>
-
 ---
 
 ## 👩‍💻 Sobre mim
