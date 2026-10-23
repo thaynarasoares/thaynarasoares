@@ -16,12 +16,12 @@ Olá! Sou a Thaynara, profissional de **Segurança da Informação**, com atuaç
 
 Tenho interesse em segurança cibernética, análise de eventos, automação e melhoria contínua dos ambientes tecnológicos.
 
-- 🔐 **SIEM e Segurança:** monitoramento e análise de alertas com Wazuh.
-- 📊 **Observabilidade:** monitoramento de infraestrutura e redes com Zabbix e Grafana.
-- 🛡️ **Resposta a incidentes:** integração de alertas e fluxos de análise com DFIR-IRIS.
-- 🐧 **Infraestrutura:** Linux, serviços, conectividade e troubleshooting.
-- ⚙️ **Automação:** scripts e integrações para otimizar rotinas operacionais.
-- 📚 **Aprendizado contínuo:** aprofundando conhecimentos em segurança, infraestrutura e automação.
+- **SIEM e Segurança:** monitoramento e análise de alertas com Wazuh.
+- **Observabilidade:** monitoramento de infraestrutura e redes com Zabbix e Grafana.
+- **Resposta a incidentes:** integração de alertas e fluxos de análise com DFIR-IRIS.
+- **Infraestrutura:** Linux, serviços, conectividade e troubleshooting.
+- **Automação:** scripts e integrações para otimizar rotinas operacionais.
+- **Aprendizado contínuo:** aprofundando conhecimentos em segurança, infraestrutura e automação.
 
 ## 🛠️ Tecnologias e ferramentas
 
