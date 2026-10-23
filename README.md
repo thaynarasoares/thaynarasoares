@@ -82,12 +82,6 @@ Projetos, estudos e soluções relacionados à segurança da informação, monit
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarasoares&layout=compact&theme=dark&hide_border=true&title_color=E84393&text_color=FFFFFF&bg_color=151515" alt="Linguagens mais utilizadas" />
 </p>
 
-## 🐍 Minhas contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thaynarasoares/thaynarasoares/output/github-snake-dark.svg" alt="Animação das contribuições do GitHub" />
-</p>
-
 ## 📫 Contato
 
 <p align="center">
